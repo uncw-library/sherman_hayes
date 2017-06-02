@@ -1,6 +1,6 @@
-#Sherman Hayes Default Gallery Readme
+# Sherman Hayes Default Gallery Readme
 
-##To Do:
+## To Do:
   * Decide what display should include.
   * Decide what resources to use.
   * Decide what images to use.
@@ -8,7 +8,7 @@
   * Build Display
 
 
-##Possible Resources
+## Possible Resources
   * Past Archives displays: http://library.uncw.edu/archives_special/exhibits/
   * Campus buildings: http://library.uncw.edu/web/collections/archives/bnl/3.html (not updated)
   * Blog posts over the years, some with fun visuals: http://library.uncw.edu/archives_special/dub_collections
